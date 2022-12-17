@@ -5,9 +5,17 @@ Aplicativo de gerenciamento de lista de tarefas em Vue.js
 ## 🛠 Habilidades
 HTML, CSS, JavaScript e Vue.js
 
+## Site
+
+Acesse o site [aqui](https://form-validation-ea1832.netlify.app/)
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![screenshot](https://user-images.githubusercontent.com/37091987/208219716-becd5290-68ae-4637-b536-7b41a269162c.png)
+
+<div align="center">
+<img src=(https://user-images.githubusercontent.com/37091987/208219716-becd5290-68ae-4637-b536-7b41a269162c.png" width="300px" />
+</div>
 
 ## Funcionalidades
 
