@@ -20,12 +20,12 @@ HTML, CSS, JavaScript e Vue.js
 
 ## Instalação
 
-Instale my-project com 
+Instale task-list com 
 
 ```bash
   npm create vite@latest . -- --template vue
   npm install
-  cd my-project
+  cd task-list
 ```
 
 ## Rodando localmente
