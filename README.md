@@ -7,7 +7,7 @@ HTML, CSS, JavaScript e Vue.js
 
 ## Site
 
-Acesse o site [aqui](https://form-validation-ea1832.netlify.app/)
+Acesse o site [aqui](https://task-list-553132.netlify.app/)
 
 ## Screenshots
 
